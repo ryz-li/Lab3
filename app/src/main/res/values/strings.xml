@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="elephant">Elephant</string>
+    <string name="alertdialog">AlertDialog</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="android_app">ANDROID APP</string>
+    <string name="ordinary">普通菜单项</string>
+    <string name="font">字体大小</string>
+    <string name="small">小</string>
+    <string name="middle">中</string>
+    <string name="big">大</string>
+    <string name="fontColor">字体颜色</string>
+    <string name="red">红</string>
+    <string name="black">黑</string>
+    <string name="menutest">MenuTest</string>
+</resources>
